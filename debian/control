@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: ArialBold.h
-Description: Arial Bold font for DisplayCore
+Description: Arial Bold
