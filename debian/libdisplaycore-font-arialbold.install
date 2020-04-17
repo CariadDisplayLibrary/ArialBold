@@ -1,2 +1,2 @@
-ArialBold.cpp libraries/DisplayCore/ArialBold
-ArialBold.h libraries/DisplayCore/ArialBold
+src libraries/DisplayCore/ArialBold
+library.properties libraries/DisplayCore/ArialBold
