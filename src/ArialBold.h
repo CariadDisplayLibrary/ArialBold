@@ -1,7 +1,7 @@
 #ifndef _ARIALBOLD_H
 #define _ARIALBOLD_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
         extern const uint8_t ArialBold10[];
